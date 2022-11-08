@@ -1,0 +1,53 @@
+body{
+    background-color: #d9d9d9;  
+}
+
+#logoEmpresa {
+    width: 200px;
+    height: 200px;
+}
+
+.container-fluid {
+    background-color: #ffa500;
+}
+
+.botoes {
+    background-color: #004aad;
+    border: none;
+    border-radius: 20px;
+    color: #ffffff;
+}
+
+.cor_txt {
+    color: #004aad;
+    font-family: 'Opens Sans Light';
+    font-size: 30px;
+}
+
+.cor_palavra{
+    color: #ffa500;
+}
+
+.subtituloT1{
+    font-family: 'Open Sans Light';
+    color: #004aad;
+}
+
+.card {
+    background-color: #ffa500;
+    border: 20px;
+    margin: 20px;
+}
+
+.card-img-top {
+    padding: 15px;
+}
+
+.card1{
+    width: 10rem;
+    height: 15rem;
+}
+
+.img_footer{
+    width: 10rem;
+}
